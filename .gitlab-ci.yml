@@ -1,0 +1,6 @@
+image: python:latest
+
+
+test:
+  script:
+    - python submission.py
